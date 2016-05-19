@@ -59,7 +59,7 @@
   
 * Use o comando `rmdir` para efetuar a remoção de uma pasta vazia  
 
-* Renomeie a pasta **trabalho_feito** para **lab_unip_01**
+* Renomeie a pasta **trabalho_feito** para **lab_unip_01**  
   `mv ../trabalho_feito ../lab_unip_01`  
   
 * Faça a criação da pasta **info_system** na home, após feito isso crie a pasta **rede** no diretório **~/info_system, por fim,  
