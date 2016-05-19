@@ -1,12 +1,12 @@
 ###TUTORIAL
 
 * Saiba seu diretório atual usando.  
-  `pwd`
+  `pwd`  
 
 * Crie os diretórios: **mack**, **trabalho**, **mack/textos**.  
   `mkdir mack`  
-  `mkdir trabalho`  
-  `mkdir mack/textos`  
+  `mkdir trabalho`    
+  `mkdir mack/textos` 
   
   
 * Entre no diretório: mack  
@@ -15,13 +15,13 @@
   
 * Transfira o conteúdo de um arquivo para o outro, mas neste caso crie um arquivo "aberto" que será preenchido quando aperta ctrl+D  
  `cat > numeros.txt`  
- `10`  
- `100`  
- `50`  
- `25`  
- `1`  
- `2`  
- `^D`  
+ `10`   
+ `100`    
+ `50`    
+ `25`    
+ `1`    
+ `2`    
+ `^D` 
  
 * Faça a cópia do conteúdo do arquivo **numeros.txt** para **numeros1.txt** e **numeros2.txt**  
   `cat numeros.txt >> numeros1.txt`  
