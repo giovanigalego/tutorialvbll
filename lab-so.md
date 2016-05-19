@@ -70,7 +70,7 @@
   
   
   
-  ###Script .sh  
+  ###Lab-so .sh  
 ```  
 pwd
 mkdir mack
@@ -83,7 +83,7 @@ cat numeros.txt >> numeros1.txt
 cat numeros.txt >> numeros2.txt
 cp *.txt ../trabalho
 ls -l
-chmod 775 numeros.txt
+chmod 755 numeros.txt
 chmod 644 numeros.txt
 cp -r ../mack ~/trabalho_feito
 rm *.txt
