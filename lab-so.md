@@ -13,7 +13,7 @@
   `cd mack`  
   
   
-* Transfira o conteúdo de um arquivo para o outro, mas neste caso crie um arquivo "aberto" que será preenchido quando aperta ctrl+D  
+* Transfira o conteúdo de um arquivo para o outro, mas neste caso crie um arquivo "aberto" que será preenchido quando apertar ctrl+D  
  `cat > numeros.txt`  
  `10`   
  `100`    
@@ -27,7 +27,7 @@
   `cat numeros.txt >> numeros1.txt`  
   `cat numeros.txt >> numeros2.txt`  
   
-* Copie todos os arquivos que possue a extensão **txt** para o diretório **trabalho**  
+* Copie todos os arquivos que possue a extensão **txt** para o diretório **trabalho**    
  `cp *.txt ../trabalho`  
  
 * Liste de forma detalhada todos os arquivos de um diretório  
@@ -48,7 +48,7 @@
 * Remova de forma recursiva o diretório **mack**  
   `rm -r ../mack`  
   
-* Entre na pasta **trabalho_feito** que está criada dentro da home
+* Entre na pasta **trabalho_feito** que está criada dentro da home  
   `cd ~/trabalho_feito`  
   
 * Troque o nome do arquivo **numeros.txt** para **sequencia.txt**  
